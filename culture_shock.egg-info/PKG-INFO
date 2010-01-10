@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: culture-shock
+Version: 0.0.1dev
+Summary: A tool for analyzing code quality of team members.
+Home-page: http://code.google.com/p/culture-shock
+Author: Mike Griffith
+Author-email: bikegriffith@gmail.com
+License: MIT
+Download-URL: http://code.google.com/p/culture-shock/downloads/list
+Description: Culture-shock provides a framework for turning programming into a game.
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Testing
+Classifier: Topic :: Software Development :: Quality Assurance
